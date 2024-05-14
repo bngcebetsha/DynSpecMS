@@ -2,7 +2,3 @@
 *.pyc
 *.o
 *.so
-__pycache__
-.ipynb_checkpoints/
-.radiopadre
-.radiopadre-session
